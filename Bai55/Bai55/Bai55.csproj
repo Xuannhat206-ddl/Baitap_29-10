@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>Bai55</RootNamespace>
+    <AssemblyName>Bai55</AssemblyName>
+    <Product>Bài 55 - Inventory Management</Product>
+  </PropertyGroup>
+
+</Project>
